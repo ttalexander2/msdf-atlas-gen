@@ -21,7 +21,7 @@ build/
 
 .vs/
 bin/
-bin-int/
+obj/
 *.sln
 *.vcxproj
 *.vcxproj.filtersDebug/
